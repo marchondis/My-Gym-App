@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  #date-picker, #muscle-groups, #exercise-list, #exercise-details {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="date"] {
+    width: 150px;
+  }
+  
+  #muscle-groups {
+    width: 200px;
+  }
+  
+  #exercise-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #exercise-details {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color:   
+   #0069d9;
+  }
